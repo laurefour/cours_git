@@ -2,7 +2,7 @@
 public class Utilisateur {
 	 private int id;
 	 private String nomUtilisateur;
-	 
+	 private String prenom;
 	 
 	public Utilisateur() {
 
