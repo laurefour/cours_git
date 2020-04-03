@@ -19,14 +19,16 @@ public class Utilisateur {
 	}
 
 
-	public String getNom() {
-		return nom;
+	public String getNomUtilisateur() {
+		return nomUtilisateur;
 	}
 
 
-	public void setNom(String nom) {
-		this.nom = nom;
+	public void setNomUtilisateur(String nomUtilisateur) {
+		this.nomUtilisateur = nomUtilisateur;
 	}
-	 
+
+
+
 	 
 }
