@@ -1,7 +1,7 @@
 
 public class Utilisateur {
 	 private int id;
-	 private String nom;
+	 private String nomUtilisateur;
 	 
 	 
 	public Utilisateur() {
